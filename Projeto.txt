@@ -1,4 +1,4 @@
-Classes: 
+﻿Classes: 
 Entrada (dados); 
 Saída(dados); 
 Tabela Verdade; 
@@ -19,4 +19,5 @@ Passo a Passo:
 
 Ideias:
 1- Salvar a tabela verdade em duas estruturas: uma matriz (as entradas e seus binários); um vetor (nível lógico)
+2-
 
